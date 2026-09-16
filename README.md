@@ -91,15 +91,20 @@ plt.title("Face with Sunglasses (Fitted)")
 plt.axis("off")
 
 plt.show()
-ORIGINAL PHOTO:
+##ORIGINAL PHOTO:
+
 <img width="883" height="486" alt="image" src="https://github.com/user-attachments/assets/7708d58e-0d04-4700-9ac6-58f07da30463" />
 
-SUNGLASS:
+##SUNGLASS:
+
 <img width="673" height="653" alt="image" src="https://github.com/user-attachments/assets/ad5c825c-49cc-4378-bfc3-dfcbadc77a76" />
 
-WITH SUNGLASS:
+##WITH SUNGLASS:
+
 <img width="818" height="677" alt="image" src="https://github.com/user-attachments/assets/45f8656f-e99b-4866-9d30-2fc6138e01b2" />
+
 <img width="1607" height="242" alt="image" src="https://github.com/user-attachments/assets/dbb3cb08-f6d5-41a4-9c99-7460a1eae5ff" />
+
 <img width="1637" height="757" alt="image" src="https://github.com/user-attachments/assets/ab9b94f0-8af1-44f0-9ba0-e7a5228a654f" />
 
 
