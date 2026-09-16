@@ -1,24 +1,25 @@
-WORKSHOP-1
-Adding-Sunglasses-to-image
-Name: ABIRAMI.A
-Reg no: 212224040010
+## WORKSHOP-1
+## Adding-Sunglasses-to-image
+## Name: ABIRAMI.A
+## Reg no: 212224040010
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
 Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
 
-Features:
+## Features:
 Detects the face in an image. Places a stylish sunglass overlay perfectly on the face. Works seamlessly with individual passport-size photos. Customizable for different sunglasses styles or photo types.
 
-Technologies Used:
+## Technologies Used:
 Python OpenCV for image processing Numpy for array manipulations
 
-How to Use:
+## How to Use:
 Clone this repository. Add your passport-sized photo to the images folder. Run the script to see your "cool" transformation!
 
-Applications:
+## Applications:
 Learning basic image processing techniques. Adding flair to your photos for fun. Practicing computer vision workflows.
 
-PROGRAM AND OUTPUT:
+## PROGRAM AND OUTPUT:
+~~~
 import cv2
 import numpy as np
 import matplotlib.pyplot as plt
@@ -91,15 +92,17 @@ plt.title("Face with Sunglasses (Fitted)")
 plt.axis("off")
 
 plt.show()
-##ORIGINAL PHOTO:
+~~~
+
+## ORIGINAL PHOTO:
 
 <img width="883" height="486" alt="image" src="https://github.com/user-attachments/assets/7708d58e-0d04-4700-9ac6-58f07da30463" />
 
-##SUNGLASS:
+## SUNGLASS:
 
 <img width="673" height="653" alt="image" src="https://github.com/user-attachments/assets/ad5c825c-49cc-4378-bfc3-dfcbadc77a76" />
 
-##WITH SUNGLASS:
+## WITH SUNGLASS:
 
 <img width="818" height="677" alt="image" src="https://github.com/user-attachments/assets/45f8656f-e99b-4866-9d30-2fc6138e01b2" />
 
